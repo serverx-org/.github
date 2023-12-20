@@ -1,8 +1,6 @@
 <!-- GitHub Header Image -->
 ![Banner](https://i.ibb.co/MVhHzyy/server101-banner.jpg)
 
-<br/>
-
 <!--<img align="center" src="./images/server101-banner.jpg" alt="GitHub header" width="100%"/> -->
 
 <h3 align="center">Our community excels in programming, development, and research, leading in technology.</h3>
