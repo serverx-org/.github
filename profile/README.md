@@ -1,5 +1,5 @@
 <!-- GitHub Header Image -->
-![Banner](./images/server101-banner.jpg)
+![Banner](https://i.ibb.co/MVhHzyy/server101-banner.jpg)
 
 <br/>
 
