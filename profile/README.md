@@ -1,5 +1,5 @@
 <!-- GitHub Header Image -->
-![Banner](https://i.ibb.co/MVhHzyy/server101-banner.jpg)
+![Banner](/profile/images/server101-banner.jpg)
 
 <!--<img align="center" src="./images/server101-banner.jpg" alt="GitHub header" width="100%"/> -->
 
